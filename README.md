@@ -1,6 +1,8 @@
 This is a fork of [maxkratz/github2gitea-mirror](https://github.com/maxkratz/github2gitea-mirror)
+
 What's changed:
 - Added `GITEA_USER` parameter. Allows you to specify which user to clone repositories to.
+- Added config for `Gitea Actions`
 
 # Mirror GitHub single repos/users/orgas/starred repos to a Gitea instance
 **Inspiration for these scripts**
